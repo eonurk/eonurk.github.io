@@ -3,7 +3,7 @@ title: "[Preprint] cinaR: A comprehensive R package for the differential analyse
 collection: publications
 permalink: /publication/cinar
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2020-10-11
+date: 2021-03-08
 venue: 'bioaRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2021.03.05.434143v2'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
