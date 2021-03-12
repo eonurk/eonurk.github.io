@@ -85,8 +85,8 @@ author:
   bio              : "PhD Candidate @ LUMC"
   location         : "Leiden, NL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Karakaslar+EO&cauthor_id=31180895"
+  googlescholar    : "https://scholar.google.com/citations?user=t7dCt_gAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "eonurk"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "eonurk"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9182-910X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/7731205/eonurk"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "eonurkara"
   vine             :
   weibo            :
   xing             :
