@@ -1,7 +1,7 @@
 ---
 title: "Predicting Carbon Spectrum in Heteronuclear Single Quantum Coherence Spectroscopy for Online Feedback During Surgery"
 collection: publications
-permalink: /publication/ms_thesis
+permalink: /publication/10.1109:TCBB.2019.2920646
 date: 2020-06-01
 venue: 'IEEE/ACM Transactions on Computational Biology'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8730423/authors#authors'
