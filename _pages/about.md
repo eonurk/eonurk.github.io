@@ -15,5 +15,5 @@ Previously, I was working at [The Jackson Laboratory](https://www.jax.org) as a 
 
 ## Recent News
 
-- **[1 April 2021]**    Started my PhD in LUMC
-- **[8 March 2021]**    Our [preprint](https://www.biorxiv.org/content/10.1101/2021.03.05.434143v2) is on bioaRxiv
+- **[1 April 2021]**    Started my PhD at LUMC
+- **[8 March 2021]**    Our [preprint](https://www.biorxiv.org/content/10.1101/2021.03.05.434143v2) is on bioaRxiv!
